@@ -1,0 +1,31 @@
+{
+  "name": "react-native-modal-photo-view",
+  "version": "0.1.0",
+  "description": "A modal image view support for react-native.",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "photo browser",
+    "photoview",
+    "ios",
+    "android"
+  ],
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guopeng1994/react-native-modal-photo-view.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guopeng1994/react-native-modal-photo-view/issues"
+  },
+  "author": "guopeng <455902861@qq.com>",
+  "homepage": "https://github.com/guopeng1994/react-native-modal-photo-view#readme",
+  "dependencies": {
+    "prop-types": "15.5.10",
+    "react-native-progress": "^3.2.0",
+    "react-navigation": "^1.0.0-beta.19"
+  }
+}

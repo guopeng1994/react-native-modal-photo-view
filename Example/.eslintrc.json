@@ -1,0 +1,38 @@
+{
+    "env": {
+        "es6": true,
+        "node": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended"
+    ],
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "sourceType": "module"
+    },
+    "rules": {
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "semi": [
+            "warn",
+            "always"
+        ],
+        "no-var": 2,
+        "react/sort-comp": 2,
+        "react/jsx-tag-spacing": 1,
+        "react-native/no-unused-styles": 2,
+        "react-native/split-platform-components": 1,
+        "react-native/no-inline-styles": 1,
+        "react-native/no-color-literals": 0
+    },
+    "plugins": [
+        "react",
+        "react-native"
+    ],
+    "ecmaFeatures": {
+        "jsx": true
+    }
+}
