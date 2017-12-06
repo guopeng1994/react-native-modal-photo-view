@@ -15,7 +15,7 @@ This repository may have a lot of issues in the beginning.
 
 2、Some times if image load error or failed, the error image and tip text didn't show.
 
-3、Maybe you can touch anywhere of the screen to close modal, but you can touch the close button of the image position to close modal
+3、Maybe you can't touch anywhere of the screen to close modal, but you can touch the close button of the image position to close modal
 
 ### Installation 
 ```npm install react-native-modal-photo-view --save```
