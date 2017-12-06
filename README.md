@@ -59,7 +59,7 @@ Built-in [ActivityIndicator](https://facebook.github.io/react-native/docs/activi
 
 Follow those steps to run the example:
 
-1. Clone the repo `git clone https://github.com/halilb/react-native-photo-browser && cd react-native-modal-photo-view/Example`
+1. Clone the repo `git clone https://github.com/halilb/react-native-modal-photo-view && cd react-native-modal-photo-view/Example`
 2. Install dependencies `npm install` or `yarn`
 3. Follow [official instructions](https://facebook.github.io/react-native/docs/getting-started.html) to run the example project in a simulator or device.
 
