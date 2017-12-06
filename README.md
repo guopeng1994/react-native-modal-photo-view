@@ -8,7 +8,7 @@ I haven't test it in IOS because i don,t have apple devices.
 
 This repository may have a lot of issues in the beginning.
 
-![](screenshots/screenshot.gif)
+![](screenshots/screenshoot.gif)
 
 ### Known issues
 1、While image loading,the loading component position is not in the center of the screen.
