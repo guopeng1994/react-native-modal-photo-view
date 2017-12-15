@@ -66,8 +66,6 @@ Follow those steps to run the example:
 ### Roadmap
 - [x] Android support
 - [ ] Improve performance for bigger collections
-- [ ] Video support
-- [ ] Photo zoom
 - [x] Zooming photos to fill the screen
 
 ### Licence
