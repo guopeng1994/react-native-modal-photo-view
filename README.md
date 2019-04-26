@@ -1,10 +1,4 @@
-Hey! I'm so sorry.Those issues(or bugs) haven't been fixed yet because I'm too busy to work(really really busy*_*).Maybe u guys could fork this repository to fix these bug.In my project,i used this serival times.ok.it's not like that fantasy. I suggest u to use other better librarys(If this library can't meet you needs). Thanks for ...(for what? nobody use this...haha).
-
-Ok.bad english.maybe i need a team to do this job... , if u need a member, can u lead me or let's Cooperation, mutual learning, help and progress。（email:455902861@qq.com）
-
-I am a Front-End coder.I'm good at js. React. React-Native and so on(haha..email to me.) 
-
-edit in 2018.05.11
+# Obsolete, no longer maintained！！！！
 
 # React Native Modal Photo View
 
